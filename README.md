@@ -1,4 +1,4 @@
-# featureengineeringaq
+# Feature Engineering Air Quality - For Air Pollution data provided by Department of Environment (DOE), Malaysia
 An feature engineering algorithm to extract, clean and combine air quality data. implemented in Windows Forms .NET
 
 
